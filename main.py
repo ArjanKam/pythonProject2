@@ -1,5 +1,4 @@
 from machine import Pin
-import time
 
 PIN_D2: int = 2
 
